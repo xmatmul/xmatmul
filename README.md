@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-Math ก Biology ก Computing
+Math ∩ Biology ∩ Computing
