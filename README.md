@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Math | Biology | Computing
+
+Math ก Biology ก Computing
